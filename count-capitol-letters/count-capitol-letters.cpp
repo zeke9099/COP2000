@@ -8,6 +8,7 @@ using namespace std;
 void getInput(string& in);
 
 class CountEm
+
 {
 private:
     int count;    //holds the count of uppercase characters
